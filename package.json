@@ -2,6 +2,9 @@
   "name": "the-bridge-shop",
   "version": "1.0.0",
   "description": "",
+  "engines": {
+    "npm": "7.10.0"
+  },
   "workspaces": [
     "api-the-bridge-shop",
     "app-the-bridge-shop"
