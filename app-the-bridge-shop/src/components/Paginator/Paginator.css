@@ -1,0 +1,22 @@
+.divPaginator {
+    display: flex;
+    background-color: rgba(36, 35, 35, 0.294);
+    justify-content: space-evenly;
+    width: 80%;
+    margin-top: 20px;
+    border-radius: 5%;
+    padding: 8px;
+    border: 1px solid black;
+    margin-bottom: 20px;
+}
+
+.currentPage {
+    border-radius: 15%;
+    padding: 10px;
+    margin: 0;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 24px;
+    font-weight: bold;
+    background-color: white;
+    border: 1px solid black;
+}

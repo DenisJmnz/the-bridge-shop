@@ -1,0 +1,22 @@
+.divSelect {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+label {
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+
+select {
+    padding-top: 2px;
+    padding-bottom: 2px;
+    border-radius: 15%;
+    size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 5px;
+    border: 1px solid black;
+    text-align: center;
+}

@@ -1,0 +1,30 @@
+.classFooter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.829);
+    width: 95%;
+    border: 1px solid black;
+}
+
+.classFooter ul {
+    display: flex;
+    width: 80%;
+    justify-content: space-evenly;
+    list-style: none;
+    color:white;
+    list-style: none;
+}
+
+.classFooter ul li {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
+    font-style: italic;
+    letter-spacing: 0.9px;
+    color:white;
+    list-style: none;
+}
+
+.classFooter ul li a {
+    color:white;
+}

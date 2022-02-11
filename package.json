@@ -1,0 +1,17 @@
+{
+  "name": "the-bridge-shop",
+  "version": "1.0.0",
+  "description": "",
+  "workspaces": [
+    "api-the-bridge-shop",
+    "app-the-bridge-shop"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "build": "npm run build --workspace=app-the-bridge-shop",
+    "start": "npm run start --workspace=api-the-bridge-shop"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

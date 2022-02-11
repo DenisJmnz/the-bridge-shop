@@ -1,0 +1,44 @@
+.divDetails {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgba(36, 35, 35, 0.294);
+    width: 80%;
+    margin-top: 20px;
+    border: 1px solid black;
+    border-radius: 5%;
+    margin-bottom: 20px;;
+}
+
+.divDetails h1{
+    padding: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color:white;
+    color:black;
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 25%;
+    border: 1px solid black;
+}
+
+.divDetails p{
+    width: 90%;
+    border-radius: 15%;
+    padding: 10px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 24px;
+    font-weight: bold;
+    background-color: white;
+    border: 1px solid black;
+}
+
+.divDetails button {
+    margin-top: 5px;
+    margin-bottom: 10px;
+    background-color: rgba(255, 0, 0, 0.548);
+    color:white;
+    border: 2px solid black;
+}
